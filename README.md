@@ -1,6 +1,6 @@
 # Tic Tac Toe
 
-![alt text](images/cover.png)
+![alt text](cover.png)
 
 YouTube Link:
 (coming soon)
