@@ -58,7 +58,7 @@ function tileClick(event) {
     turn = PLAYER_X;
   }
 
-  //   clickSound.play();
+  clickSound.play();
   setHoverText();
   checkWinner();
 }
