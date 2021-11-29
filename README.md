@@ -3,7 +3,7 @@
 ![alt text](cover.png)
 
 YouTube Link:
-(coming soon)
+https://youtu.be/fPew9OI2PnA
 
 In this video we are going to make the classic game Tic Tac Toe using JavaScript HTML and CSS. Throughout this tutorial we will touch on many topics.
 
